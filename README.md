@@ -1,7 +1,6 @@
-# Resources
-Resources for all things Robotics
+# Resources for 1010 Robotics
 
-# LINKS
+## LINKS
 
 [Facebook Link](https://www.facebook.com/TenTonRobotics/)
 
@@ -12,7 +11,7 @@ Resources for all things Robotics
 [West Vancouver Mechatronics/Robotics Academy page](http://westvancouverschools.ca/academies/mechatronics-robotics)
 
 
-# VIDEOS
+## VIDEOS
 
 [2017 RECF online challenge video](https://www.youtube.com/watch?v=VkqiHvqSViA)
 
