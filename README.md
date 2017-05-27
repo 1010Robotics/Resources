@@ -17,7 +17,7 @@
 
 [Post worlds a short video](https://www.youtube.com/watch?v=oYYRGoB5eLE&t=17s)
 
-## GIT and GITHUB TUTORIALS
+## GITHUB TUTORIALS
 
 [1.1: Introduction - Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
@@ -26,4 +26,6 @@
 [1.3: Forks and Pull Requests - Git and GitHub for Poets](https://www.youtube.com/watch?v=_NrSWLQsDL4&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=3)
 
 [1.4: GitHub Issues - Git and GitHub for Poets](https://www.youtube.com/watch?v=WMykv2ZMyEQ&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=4)
+
+[2.0: **Hands-On Training** Introduction to GitHub](https://services.github.com/on-demand/intro-to-github/)
 
