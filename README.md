@@ -18,7 +18,7 @@
 [Post worlds a short video](https://www.youtube.com/watch?v=oYYRGoB5eLE&t=17s)
 
 ## TUTORIALS
-#### GitHub
+### GitHub
 
 [1.1: Introduction - Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
