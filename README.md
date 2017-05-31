@@ -12,10 +12,13 @@
 
 
 ## VIDEOS
-
+### Ten Ton Robotics
 [2017 RECF online challenge video](https://www.youtube.com/watch?v=VkqiHvqSViA)
 
 [Post worlds a short video](https://www.youtube.com/watch?v=oYYRGoB5eLE&t=17s)
+
+### 2017-2018 VEX Robotics Competition Game
+[VEX In The Zone](https://www.youtube.com/watch?v=1Yo_mlR1VJU)
 
 ## TUTORIALS
 ### GitHub
