@@ -35,5 +35,5 @@
 [2: Introduction to GitHub](https://services.github.com/on-demand/intro-to-github/)
 
 #### **On Demand Training**
-[3: On Demand Training](https://services.github.com/on-demand/)
+[3: GitHub 101, GitHub 102, and GitHub 103](https://services.github.com/on-demand/)
 
