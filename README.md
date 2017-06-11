@@ -23,4 +23,6 @@
 ## TUTORIALS
 ### [GitHub](https://1010robotics.github.io/Resources/GitHub)
 
+### [LabVIEW](https://1010robotics.github.io/Resources/LabVIEW)
+
 ### [Java for FRC](https://1010robotics.github.io/Resources/JavaForFRC)
