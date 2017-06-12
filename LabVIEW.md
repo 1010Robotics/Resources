@@ -8,3 +8,5 @@
 
 [LabVIEW for FRC](http://ni.com/frc)
 
+Test your LabVIEW proficiency with the Free [LabVIEW Fundamentals Exam](https://lumen.ni.com/nicif/us/ekitcladexmprp/content.xhtml) (Need to create an account)
+
