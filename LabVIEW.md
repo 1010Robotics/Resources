@@ -6,3 +6,5 @@
 
 [LabVIEW Skills Guide](http://www.ni.com/labview/skills-guide/)
 
+[LabVIEW for FRC](http://ni.com/frc)
+
