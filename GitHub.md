@@ -16,3 +16,6 @@
 #### GitHub Desktop
 [GitHub Desktop Tutorial](https://www.youtube.com/watch?v=kFix7UDJ7LA)
 
+[The Case for GitHub Desktop](https://www.youtube.com/watch?v=_qXXAWsxldg)
+
+
