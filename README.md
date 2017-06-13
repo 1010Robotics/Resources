@@ -24,6 +24,8 @@
 
 ### [GitHub](https://1010robotics.github.io/Resources/GitHub)
 
+### [RobotC](https://1010robotics.github.io/Resources/RobotC)
+
 ### [PROS](https://1010robotics.github.io/Resources/PROS)
 
 ### [LabVIEW for FRC](https://1010robotics.github.io/Resources/LabVIEW)
