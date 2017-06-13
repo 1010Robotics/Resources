@@ -3,95 +3,19 @@
 This list is a compilation of useful links, resources and advice from throughout the starstruck season.
 
 # Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-
-[Motor](#Motors)
-
-a
-
-a
-
-a
-
-a
-
-aaa
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
+1. [Motors](#Motors)
+2. [Scounting Values](#Scounting Values)
+  1. [OPR and Cholesky Decomposition](#OPR and Cholesky Decomposition)
 
 
-
-a
-a
-a
-a
-
-a
-a
-a
-a
-a
+## Motors
 
 
-a
-
-a
-
-a
-a
-a
-a
-a
-aa
-
-a
-a
+## Scounting Values
 
 
-## Example
-aaa
-## Example2
-sasas
-## Third Example
-asdasd
-# Motors
+### OPR and Cholesky Decomposition
+
+[Reshish Matrix Calculator](http://matrix.reshish.com/)
+
+http://matrix.reshish.com/
