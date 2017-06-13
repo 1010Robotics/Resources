@@ -12,3 +12,7 @@
 
 #### **On Demand Training**
 [3: GitHub 101, GitHub 102, and GitHub 103](https://services.github.com/on-demand/)
+
+#### GitHub Desktop
+[GitHub Desktop Tutorial](https://www.youtube.com/watch?v=kFix7UDJ7LA)
+
