@@ -19,6 +19,8 @@ To stay up to date on current robots, matches, and record on the internet, creat
     1. [Kalman Filter](#Kalman-Filter)
 6. [Scounting](#Scouting)
 7. [VEX Fourms Rulings](#VEX-Forums-Rulings)
+8. [Excel/Google Sheets Resource](#Excel/Google-Sheets-Resource)
+    1. [vexdb.io and JSON](#vexdb.io-and-JSON)
 
 ## Motors <a name="Motors"></a>
 
@@ -89,7 +91,23 @@ To stay up to date on current robots, matches, and record on the internet, creat
 
 ## Scounting <a name="Scounting"></a>
 
-[Worlds Arts Division Scounting Sheet: Example and Data} {https://docs.google.com/spreadsheets/d/1V28NFvrStnL1mmGljFCvl4kWgJzAPS0bj5FVBjygZM0/edit#gid=2040176559}
+[Worlds Arts Division Scounting Sheet: Example and Data] {https://docs.google.com/spreadsheets/d/1V28NFvrStnL1mmGljFCvl4kWgJzAPS0bj5FVBjygZM0/edit#gid=2040176559}
 
 ## VEX Fourms Rulings <a name="VEX-Forums-Rulings"></a>
+
+[Twist Ties for Cable Management](https://www.vexforum.com/index.php/18807-answered-use-of-twist-ties-on-robot-official-q-a-post)
+
+## Excel/Google Sheets Resource <a name="#Excel/Google-Sheets-Resource"></a>
+
+[vlookup Multiple Values - Return MULTIPLE corresponding values for ONE Lookup Value](http://www.globaliconnect.com/excel/index.php?option=com_content&view=article&id=119:vlookup-multiple-values-return-multiple-corresponding-values-for-one-lookup-value&catid=77&Itemid=473)
+
+[Return Multiple Items with One Lookup Value: Youtube] (https://www.youtube.com/watch?v=wclmIcTsbtg)
+
+### vexdb.io and JSON <a name="vexdb.io-and-JSON"></a>
+
+[Brief vexdb.io tutorial: Vex Fourms](https://www.vexforum.com/index.php/11378-database/0)
+
+[Handling JSON like a boss in PHP](http://nitschinger.at/Handling-JSON-like-a-boss-in-PHP/)
+
+[Stars Wars API (practice database)](https://swapi.co/)
 
