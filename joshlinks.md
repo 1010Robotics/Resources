@@ -66,9 +66,9 @@ To stay up to date on current robots, matches, and record on the internet, creat
 
 ### Optimization <a name="Optimization"></a>
 
-[Nimbus: interactive multiobjective optimization system] (https://wwwnimbus.it.jyu.fi/)
+[Nimbus: interactive multiobjective optimization system](https://wwwnimbus.it.jyu.fi/)
 
-[Simple Linear Equation Calculator] (https://quickmath.com/webMathematica3/quickmath/equations/solve/advanced.jsp#c=solve_advancedsolveequations&v1=a%2Bb%2Bc%3Dd%0A14a%2B12b%2B17c%3Dd%0A4a%2B2b%2B7c%3Dd%0A4d%3D2a%2Bb-c&v2=a%0Ab%0Ac%0Ad&v5=1)
+[Simple Linear Equation Calculator](https://quickmath.com/webMathematica3/quickmath/equations/solve/advanced.jsp#c=solve_advancedsolveequations&v1=a%2Bb%2Bc%3Dd%0A14a%2B12b%2B17c%3Dd%0A4a%2B2b%2B7c%3Dd%0A4d%3D2a%2Bb-c&v2=a%0Ab%0Ac%0Ad&v5=1)
 
 
 
@@ -85,13 +85,13 @@ To stay up to date on current robots, matches, and record on the internet, creat
 
 ### Kalman Filter <a name="Kalman-Filter"></a>
 
-[Wikipedia Kalman Filter] (https://en.wikipedia.org/wiki/Kalman_filter)
+[Wikipedia Kalman Filter](https://en.wikipedia.org/wiki/Kalman_filter)
 
 [how-a-kalman-filter-works-in-pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 ## Scounting <a name="Scounting"></a>
 
-[Worlds Arts Division Scounting Sheet: Example and Data] {https://docs.google.com/spreadsheets/d/1V28NFvrStnL1mmGljFCvl4kWgJzAPS0bj5FVBjygZM0/edit#gid=2040176559}
+[Worlds Arts Division Scounting Sheet: Example and Data](https://docs.google.com/spreadsheets/d/1V28NFvrStnL1mmGljFCvl4kWgJzAPS0bj5FVBjygZM0/edit#gid=2040176559)
 
 ## VEX Fourms Rulings <a name="VEX-Forums-Rulings"></a>
 
@@ -101,7 +101,7 @@ To stay up to date on current robots, matches, and record on the internet, creat
 
 [vlookup Multiple Values - Return MULTIPLE corresponding values for ONE Lookup Value](http://www.globaliconnect.com/excel/index.php?option=com_content&view=article&id=119:vlookup-multiple-values-return-multiple-corresponding-values-for-one-lookup-value&catid=77&Itemid=473)
 
-[Return Multiple Items with One Lookup Value: Youtube] (https://www.youtube.com/watch?v=wclmIcTsbtg)
+[Return Multiple Items with One Lookup Value: Youtube](https://www.youtube.com/watch?v=wclmIcTsbtg)
 
 ### vexdb.io and JSON <a name="vexdb.io-and-JSON"></a>
 
