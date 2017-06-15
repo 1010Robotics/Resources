@@ -56,6 +56,12 @@ To stay up to date on current robots, matches, and record on the internet, creat
 
 [DC Motor Characteristics](http://lancet.mit.edu/motors/motors3.html)
 
+[DC Motor Calculations](http://www.me.mtu.edu/~wjendres/ProductRealization1Course/DC_Motor_Calculations.pdf)
+
+[SimpleMotor: Calcualtions](http://simplemotor.com/calculations/)
+
+[Further DC Motor Calcuations](https://ewbelsalvador.wikispaces.com/file/view/Electric+Motors.pdf)
+
 [DC Motors and Generators](http://pemclab.cn.nctu.edu.tw/W3lib/books/ElectroCraft85/ch2.dcmotor.pdf)
 
 [Characteristic of DC Motors](http://www.rci.rutgers.edu/~dbirnie/solarclass/MotorPrimerGaTech.pdf)
@@ -77,6 +83,12 @@ To stay up to date on current robots, matches, and record on the internet, creat
 [Pros Introduction post: VEXFourms](https://www.vexforum.com/index.php/9401-introducing-the-purdue-robotics-os-pros-for-cortex/0)
 
 [Motor Speed Experiement](https://www.vexforum.com/index.php/20901-interesting-motor-experiment/0/)
+
+[Speed torque curves vexfourms: jpearman](https://www.vexforum.com/index.php/7868-motor-torque-speed-curves/0)
+
+[Speed Toqrue Curves rev2](https://www.vexforum.com/index.php/8089-motor-torque-speed-curves-rev2/0)
+
+[Max power of motors](https://www.vexforum.com/index.php/362-how-to-find-max-power-curve-of-motors/p1#p2354)
 
 ### PTC Info <a name="PTC-Info"></a>
 
@@ -117,6 +129,8 @@ To stay up to date on current robots, matches, and record on the internet, creat
 ## Scouting Values <a name="Scouting-Values"></a>
 
 [TRSP Calculation VEXFourms](https://www.vexforum.com/index.php/8703-sp-ranking-system-ideas/33)
+
+[R project for statistical computing](https://www.r-project.org/)
 
 ### OPR <a name="OPR"></a>
 
@@ -170,7 +184,13 @@ To stay up to date on current robots, matches, and record on the internet, creat
 
 [Algebraic Methods of Sythesis using displacement equations](http://ebooks.library.cornell.edu/k/kmoddl/pdf/013_011.pdf)
 
+[Same as above:](http://www.upet.ro/annals/mechanical/pdf/2010/Annals-Mechanical-Engineering-2010-a27.pdf)
+
 [4-bar linkage analysis](https://synthetica.eng.uci.edu/mechanicaldesign101/McCarthyNotes-2.pdf)
+
+[Position Analysis via Complex means](http://ocw.metu.edu.tr/pluginfile.php/5791/mod_resource/content/8/ch3/3-7.htm)
+
+[POSITION, VELOCITY AND ACCELERATION ANALYSES FOR PLANAR MECHANISMS USING COMPLEX NUMBER METHOD](http://moodlearn.ariel.ac.il/pluginfile.php/841376/mod_resource/content/1/%D7%9E%D7%A1%D7%A4%D7%A8%D7%99%D7%9D%20%D7%9E%D7%A8%D7%95%D7%9B%D7%91%D7%99%D7%9D.pdf)
 
 ### Optimization <a name="Optimization"></a>
 
@@ -301,6 +321,8 @@ To stay up to date on current robots, matches, and record on the internet, creat
 
 [Logger Pro Graphing Guide](http://www2.vernier.com/manuals/ga3manual.pdf)
 
+[Logger Pro Parametric Lines](https://www.desmos.com/calculator/nqom2ih05g)
+
 ### vexdb.io and JSON <a name="vexdb.io-and-JSON"></a>
 
 [Brief vexdb.io tutorial: Vex Fourms](https://www.vexforum.com/index.php/11378-database/0)
@@ -406,6 +428,7 @@ FRC Motors:
 
 [Inventor Tutorial](https://www.youtube.com/watch?v=1qZL494b2qE)
 
+[parts Library 2016](http://www.mediafire.com/file/nfhyn9jk3vhc1a1/VEX+Parts+Library+2016.zip)
 
 ## Mechanisms <a name="Mechanisms"></a>
 
