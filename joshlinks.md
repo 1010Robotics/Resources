@@ -166,6 +166,10 @@ To stay up to date on current robots, matches, and record on the internet, creat
 
 [Introduction to PID Control Loops](https://docs.google.com/document/d/1D61dinGqP__CHzRfc9yNugnS9K-JTa395_r0qP7L5W8/edit)
 
+[PID loop simluation 1](www.engineers-excel.com/Apps/PID_Simulator/PID.xls)
+
+[PID Loop simulation 2](https://www.cs.cmu.edu/afs/cs/academic/class/15883-f15/lectures/cerebellum-controller/pid.xls)
+
 ## Linkage Analysis <a name="Linkage-Analysis"></a>
 
 [4-bar linkage animations + full linkage simulator](http://dynref.engr.illinois.edu/aml.html)
@@ -199,6 +203,12 @@ To stay up to date on current robots, matches, and record on the internet, creat
 [Simple Linear Equation Calculator](https://quickmath.com/webMathematica3/quickmath/equations/solve/advanced.jsp)
 
 [Simplify Equations](https://www.symbolab.com/solver/simplify-calculator/)
+
+[Ansys optimization software: student package](http://www.ansys.com/products/academic/ansys-student)
+
+[Ansys Tutorial](https://www.scribd.com/doc/101372637/978-1-58503-725-4-2)
+
+[Ansys Workbench guide](https://www.scribd.com/document/338623817/Tutorial-Week-3c-MECH3361-Workbench-Guide-pdf)
 
 ## Programming <a name="Programming"></a>
 
@@ -373,6 +383,8 @@ FRC Motors:
 
 [2016 FIRST Robotics Competition Motor Info](http://team4248.com/doco/2016-MotorManual.pdf)
 
+[JVN's Design Calculator](https://www.chiefdelphi.com/media/papers/3188?langid=2)
+
 ## Steel v Aluminum <a name="Steel-v-Aluminum"></a>
 
 [Wolfram Alpha: 5052-H32 vs a1008 steel](https://www.wolframalpha.com/input/?i=5052-H32+vs+a1008+steel)
@@ -394,6 +406,8 @@ FRC Motors:
 [Cut to Bots: Youtube](https://www.youtube.com/channel/UCyLxFCeZJSPbCY3Vd8kHc-w)
 
 [NBN BCIT Livestream](https://www.youtube.com/watch?v=UydPkBdsslc&feature=youtu.be)
+
+Team Ten Ton Font: [Base Runner JNL](http://fontsgeek.com/fonts/Base-Runner-JNL-Regular)
 
 ### News <a name="News"></a>
 
@@ -429,6 +443,16 @@ FRC Motors:
 [Inventor Tutorial](https://www.youtube.com/watch?v=1qZL494b2qE)
 
 [parts Library 2016](http://www.mediafire.com/file/nfhyn9jk3vhc1a1/VEX+Parts+Library+2016.zip)
+
+Video Tutorials:
+
+[Autodesk Uni: Joints](http://au.autodesk.com/au-online/classes-on-demand/class-catalog/2015/fusion-360/cp10165#chapter=0)
+
+[CP10778: From Crisp Design to Clean Documentation—An Introduction to Fusion 360 Drawings](http://au.autodesk.com/au-online/classes-on-demand/class-catalog/2015/fusion-360/cp10778#chapter=0)
+
+[CP12977: Simulation for Fusion 360](http://au.autodesk.com/au-online/classes-on-demand/class-catalog/2015/fusion-360/cp12977#chapter=0)
+
+[MA3514: Creating Assemblies with Autodesk® Fusion 360](http://au.autodesk.com/au-online/classes-on-demand/class-catalog/2012/autodesk-fusion-360/creating-assemblies-with-autodesk-fusion-360#chapter=0)
 
 ## Mechanisms <a name="Mechanisms"></a>
 
