@@ -2,6 +2,8 @@
 
 [Getting Started](http://www.learnni.com/getting-started)
 
+[Self Paced LabVIEW Training](http://home.hit.no/~hansha/documents/labview/labview.htm)
+
 [LabVIEW Basics](http://www.ni.com/getting-started/labview-basics/)
 
 [LabVIEW Skills Guide](http://www.ni.com/labview/skills-guide/)
