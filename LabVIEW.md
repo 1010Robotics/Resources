@@ -12,6 +12,8 @@
 
 [LabVIEW Skills Guide](http://www.ni.com/labview/skills-guide/)
 
+[Introduction to LabVIEW (PDF)](http://home.hit.no/~hansha/documents/labview/training/Introduction%20to%20LabVIEW/Introduction%20to%20LabVIEW.pdf)
+
 [LabVIEW for FRC](http://ni.com/frc)
 
 [Build your FIRST Robot in 3 days](https://www.youtube.com/user/nifirstrobotics)
