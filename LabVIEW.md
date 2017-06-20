@@ -2,9 +2,13 @@
 
 [Getting Started](http://www.learnni.com/getting-started)
 
+[Self-Paced Video Training for Students](http://www.ni.com/academic/students/learn/)
+
 [Self Paced LabVIEW Training](http://home.hit.no/~hansha/documents/labview/labview.htm)
 
-[LabVIEW Basics](http://www.ni.com/getting-started/labview-basics/)
+[LabVIEW Basics - NI](http://www.ni.com/getting-started/labview-basics/)
+
+[LabVIEW Basics](http://home.hit.no/~hansha/video/labview_basics.php)
 
 [LabVIEW Skills Guide](http://www.ni.com/labview/skills-guide/)
 
