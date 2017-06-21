@@ -31,3 +31,5 @@
 ### [LabVIEW for FRC](https://1010robotics.github.io/Resources/LabVIEW)
 
 ### [Java for FRC](https://1010robotics.github.io/Resources/JavaForFRC)
+
+### [Useful Materials](https://1010robotics.github.io/Resources/UsefulMaterials)
