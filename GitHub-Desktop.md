@@ -22,15 +22,15 @@
 
 6. Then go ahead and modify the contents of your local folder (add/delete/modify the files as needed)
 
-7. Any changes to the files on your local folder will show up (after a few secnds) in GitHub Desktop. 
+7. Any changes to the files on your local folder will show up (after a few seconds) in GitHub Desktop. 
 
 8. To **PUSH** the changes back to your team repository on GitHub.com...
 
-  + In GitHub Desktop....in the lower left corner, enter a **clear explanation** of the changes you made.
+    + In GitHub Desktop....in the lower left corner, enter a **clear explanation** of the changes you made.
 
-  + Click on the blue button **Commit to master**
+    + Click on the blue button **Commit to master**
 
-   + Click on **Push Origin** in the top bar.
+    + Click on **Push Origin** in the top bar.
 
 The additions/deletions/modification on your local computer will now be synced with your team repo on GitHub.com.
 
