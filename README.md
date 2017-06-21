@@ -24,6 +24,8 @@
 
 ### [GitHub](https://1010robotics.github.io/Resources/GitHub)
 
+### [GitHub Desktop](https://1010robotics.github.io/Resources/GitHub-Desktop)
+
 ### [RobotC](https://1010robotics.github.io/Resources/RobotC)
 
 ### [PROS](https://1010robotics.github.io/Resources/PROS)
