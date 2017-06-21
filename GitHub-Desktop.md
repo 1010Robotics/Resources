@@ -1,6 +1,6 @@
 ## Installing and Using GitHub Desktop
 
-#### Follow the instructions below for installing and using GitHub Desktop
+### Follow the instructions below for installing and using GitHub Desktop
 
 1. [Click here to install GitHub Desktop](http://desktop.github.com)
 
