@@ -16,7 +16,7 @@
 
 [LabVIEW for FRC](http://ni.com/frc)
 
-[The Secret Book of FRC LabVIEW](https://www.chiefdelphi.com/forums/showthread.php?t=120756) (Scroll towards the bottom to find latest version. THough written in 2013, the book is an excellent introduction to LabVIEW for FRC.)
+[The Secret Book of FRC LabVIEW](https://www.chiefdelphi.com/forums/showthread.php?t=120756) (Scroll towards the bottom to find latest version. Though written in 2013, the book is an excellent introduction to LabVIEW for FRC.)
 
 [Build your FIRST Robot in 3 days](https://www.youtube.com/user/nifirstrobotics)
 
