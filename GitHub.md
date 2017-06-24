@@ -1,5 +1,5 @@
 # GitHub Training
-)
+
 #### How to.....
 [Set up and manage my GitHub Profile](https://help.github.com/categories/setting-up-and-managing-your-github-profile/)
 
