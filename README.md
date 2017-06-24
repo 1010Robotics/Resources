@@ -35,3 +35,8 @@
 ### [Java for FRC](https://1010robotics.github.io/Resources/JavaForFRC)
 
 ### [Useful Materials](https://1010robotics.github.io/Resources/UsefulMaterials)
+
+## Software Projects
+
+### [Google Summer of Code 2017](https://summerofcode.withgoogle.com/how-it-works/)
+
