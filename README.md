@@ -47,3 +47,12 @@
 
 ### [Google Summer of Code 2017](https://summerofcode.withgoogle.com/how-it-works/)
 
+## Josh's Research
+
+### [Josh's Useful List](https://1010robotics.github.io/Resources/joshuseful)
+
+### [Josh's To Do List](https://1010robotics.github.io/Resources/joshtodo)
+
+### [Josh's Link Library (Full)](https://1010robotics.github.io/Resources/joshlinks)
+
+
