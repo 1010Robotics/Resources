@@ -3,6 +3,9 @@
 #### How to.....
 [Set up and manage my GitHub Profile](https://help.github.com/categories/setting-up-and-managing-your-github-profile/)
 
+#### GitHub Resources (Training, Classes, Videos, Tutorials, Tools, etc)
+[GitHub Resources](https://services.github.com/resources/)
+
 #### Git and GitHub for Poets
 [1.1: Introduction](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
