@@ -17,7 +17,8 @@
 
 [Post worlds a short video](https://www.youtube.com/watch?v=oYYRGoB5eLE&t=17s)
 
-## 2017-2018 VEX Robotics Competition Game: **Start preparing Summer 2017**
+## 2017-2018 VEX Robotics Competition
+### Start preparing Summer 2017
 [Summer Of Learning](http://cs2n.org) -- Earn Badges and Certifications by learning how to program a VEX IQ robot using Graphical RobotC. Learn Robot Math, programming different Sensors, and controlling Program Flow. Need to first create an account on http://cs2n.org.
 
 [VEX In The Zone](https://www.youtube.com/watch?v=1Yo_mlR1VJU) -- Short introductory video.
@@ -26,6 +27,12 @@
 -- Use RobotC to program your virtual robot to stack as many cones as you can and then park in the end zone for even more points!
 
 [In The Zone Competition Updates](https://www.vexrobotics.com/vexedr/competition/vrc-current-game) -- Includes Game Video + Game Manual + iPhone/Android App with Game Manual & Score Keeper
+
+### The Nitty Gritty Details
+[VEX Motor Ports 1 & 10](https://renegaderobotics.org/motor-ports-1-10/)
+
+[Words of Wisdom](https://renegaderobotics.org/the-path-to-prototyping/)
+
 
 ## TUTORIALS
 
