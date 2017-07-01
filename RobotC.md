@@ -9,3 +9,5 @@
 [VEX Cortex Video Trainer Index](http://education.rec.ri.cmu.edu/products/teaching_robotc_cortex/index/index.htm)
 
 [Programming with Robots](http://carrot.whitman.edu/Robots/notes.pdf)
+
+[RobotC API Guide](http://www.robotc.net/wikiarchive/Main_Page)(Programming Tips and Tricks, Tutorials, etc.)
