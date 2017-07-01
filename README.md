@@ -17,7 +17,7 @@
 
 [Post worlds a short video](https://www.youtube.com/watch?v=oYYRGoB5eLE&t=17s)
 
-### 2017-2018 VEX Robotics Competition Game: **Start preparing Summer 2017**
+## 2017-2018 VEX Robotics Competition Game: **Start preparing Summer 2017**
 [Summer Of Learning](http://cs2n.org) -- Earn Badges and Certifications by learning how to program a VEX IQ robot using Graphical RobotC. Learn Robot Math, programming different Sensors, and controlling Program Flow. Need to first create an account on http://cs2n.org.
 
 [VEX In The Zone](https://www.youtube.com/watch?v=1Yo_mlR1VJU) -- Short introductory video.
@@ -44,6 +44,8 @@
 ### [Useful Materials](https://1010robotics.github.io/Resources/UsefulMaterials)
 
 ## Software Projects
+
+### [Free Programming Courses](https://1010robotics.github.io/Resources/Free-Programming-Courses)
 
 ### [Google Summer of Code 2017](https://summerofcode.withgoogle.com/how-it-works/)
 
