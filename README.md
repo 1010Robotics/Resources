@@ -29,26 +29,26 @@
 
 ## TUTORIALS
 
-### [GitHub](https://1010robotics.github.io/Resources/GitHub)
+[GitHub](https://1010robotics.github.io/Resources/GitHub)
 
-### [GitHub Desktop](https://1010robotics.github.io/Resources/GitHub-Desktop)
+[GitHub Desktop](https://1010robotics.github.io/Resources/GitHub-Desktop)
 
-### [RobotC](https://1010robotics.github.io/Resources/RobotC)
+[RobotC](https://1010robotics.github.io/Resources/RobotC)
 
-### [PROS](https://1010robotics.github.io/Resources/PROS)
+[PROS](https://1010robotics.github.io/Resources/PROS)
 
-### [LabVIEW for FRC](https://1010robotics.github.io/Resources/LabVIEW)
+[LabVIEW for FRC](https://1010robotics.github.io/Resources/LabVIEW)
 
-### [Java for FRC](https://1010robotics.github.io/Resources/JavaForFRC)
+[Java for FRC](https://1010robotics.github.io/Resources/JavaForFRC)
 
-### [Useful Materials](https://1010robotics.github.io/Resources/UsefulMaterials)
+[Useful Materials](https://1010robotics.github.io/Resources/UsefulMaterials)
 
 ## Software Projects
 
-### [Google Summer of Code 2017](https://summerofcode.withgoogle.com/how-it-works/)
+[Google Summer of Code 2017](https://summerofcode.withgoogle.com/how-it-works/)
 
 ## Josh's Research
 
-### [Josh's Link Library (Full)](https://1010robotics.github.io/Resources/joshlinks)
+[Josh's Link Library (Full)](https://1010robotics.github.io/Resources/joshlinks)
 
 
