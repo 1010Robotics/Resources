@@ -45,8 +45,6 @@
 
 ## Software Projects
 
-### [Free Programming Courses](https://1010robotics.github.io/Resources/Free-Programming-Courses)
-
 ### [Google Summer of Code 2017](https://summerofcode.withgoogle.com/how-it-works/)
 
 ## Josh's Research
