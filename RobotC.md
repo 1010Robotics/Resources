@@ -10,4 +10,4 @@
 
 [Programming with Robots](http://carrot.whitman.edu/Robots/notes.pdf)
 
-[RobotC API Guide](http://www.robotc.net/wikiarchive/Main_Page)(Programming Tips and Tricks, Tutorials, etc.)
+[RobotC API Guide](http://www.robotc.net/wikiarchive/Main_Page) (Programming Tips and Tricks, Tutorials, etc.)
