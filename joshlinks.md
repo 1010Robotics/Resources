@@ -98,6 +98,8 @@ To stay up to date on current robots, matches, and record on the internet, creat
 
 [PTC Performance Measurements: Jpearman](https://www.vexforum.com/index.php/7208-ptc-performance-measurements/0)
 
+[PTC Cortex and motor Schematic (internal wirirng)](https://vamfun.files.wordpress.com/2012/11/vex-power-distribution-schematic-showing-ptc-resistances.jpg) 
+
 ### Gears and Ratios <a name="Gears-and-Ratios"></a>
 
 [VEX Lift Gear Ratio Calculator](http://polynomic3d.com/user/smith/vex-lift-calc.html)
