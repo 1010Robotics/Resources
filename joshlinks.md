@@ -238,6 +238,8 @@ To stay up to date on current robots, matches, and record on the internet, creat
 
 [Spur Flies Library](https://github.com/VTOW/SpurFlysLibrary)
 
+[Using Encoders to Drive Straight](http://www.robotc.net/wikiarchive/Tutorials/Arduino_Projects/Mobile_Robotics/VEX/Using_encoders_to_drive_straight)
+
 ### Kalman Filter <a name="Kalman-Filter"></a>
 
 [Wikipedia Kalman Filter](https://en.wikipedia.org/wiki/Kalman_filter)
