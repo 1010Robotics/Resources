@@ -198,6 +198,8 @@ To stay up to date on current robots, matches, and record on the internet, creat
 
 [POSITION, VELOCITY AND ACCELERATION ANALYSES FOR PLANAR MECHANISMS USING COMPLEX NUMBER METHOD](http://moodlearn.ariel.ac.il/pluginfile.php/841376/mod_resource/content/1/%D7%9E%D7%A1%D7%A4%D7%A8%D7%99%D7%9D%20%D7%9E%D7%A8%D7%95%D7%9B%D7%91%D7%99%D7%9D.pdf)
 
+[Hoeken's Linkage](http://www.designofmachinery.com/DOM/Chap_03_3ed_p134.pdf)
+
 ### Optimization <a name="Optimization"></a>
 
 [Nimbus: interactive multiobjective optimization system](https://wwwnimbus.it.jyu.fi/)
