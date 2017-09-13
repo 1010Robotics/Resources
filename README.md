@@ -20,8 +20,6 @@
 
 ## 2017-2018 VEX Robotics Competition
 
-### [Ten Ton Robotics Academy Calendar](https://calendar.google.com/calendar/embed?src=sd45.bc.ca_hv9i8q3n6bqnto2c1te2k5bmkg%40group.calendar.google.com&ctz=America/Vancouver)
-
 ### Start preparing Summer 2017
 [Summer Of Learning](http://cs2n.org) -- Earn Badges and Certifications by learning how to program a VEX IQ robot using Graphical RobotC. Learn Robot Math, programming different Sensors, and controlling Program Flow. Need to first create an account on http://cs2n.org.
 
