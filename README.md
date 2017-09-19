@@ -30,6 +30,8 @@
 
 [In The Zone Competition Updates](https://www.vexrobotics.com/vexedr/competition/vrc-current-game) -- Includes Game Video + Game Manual + iPhone/Android App with Game Manual & Score Keeper
 
+[In The Zone Referee Training Videos](https://www.youtube.com/watch?v=lNHTmUn9o58)
+
 ### The Nitty Gritty Details
 [VEX Motor Ports 1 & 10](https://renegaderobotics.org/motor-ports-1-10/)
 
