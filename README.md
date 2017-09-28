@@ -25,6 +25,8 @@
 
 [VEX In The Zone](https://www.youtube.com/watch?v=1Yo_mlR1VJU) -- Short introductory video.
 
+[FREE In the Zone RobotC Programming Workshop on Saturday, Sept 30, 2017](https://www.picatic.com/penguworkshop2017) **ONLY 2 spots left as of 10:00 pm on 9/27/2017**
+
 [VEX Robotics Competition In The Zone Vrtual Robot](http://www.robotvirtualworlds.com/inthezone/)
 -- Use RobotC to program your virtual robot to stack as many cones as you can and then park in the end zone for even more points!
 
