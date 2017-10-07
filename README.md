@@ -34,7 +34,10 @@
 
 [In The Zone Referee Training Videos](https://www.youtube.com/watch?v=lNHTmUn9o58)
 
-### The Nitty Gritty Details
+## The Nitty Gritty Details
+
+[CORTEX Wiring Diagram](https://1010robotics.github.io/Resources/Cortex_Wiring_Diagram.pdf)
+
 [VEX Motor Ports 1 & 10](https://renegaderobotics.org/motor-ports-1-10/)
 
 [Words of Wisdom](https://renegaderobotics.org/the-path-to-prototyping/)
