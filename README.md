@@ -38,6 +38,8 @@
 
 [CORTEX Wiring Diagram](https://1010robotics.github.io/Resources/Cortex_Wiring_Diagram.pdf)
 
+[In The Zone Robot Inspection Checklist](https://1010robotics.github.io/Resources/InTheZone_RobotInspectionChecklist.pdf)
+
 [VEX Motor Ports 1 & 10](https://renegaderobotics.org/motor-ports-1-10/)
 
 [Words of Wisdom](https://renegaderobotics.org/the-path-to-prototyping/)
