@@ -14,7 +14,9 @@
 
 [Introduction to LabVIEW (PDF)](http://home.hit.no/~hansha/documents/labview/training/Introduction%20to%20LabVIEW/Introduction%20to%20LabVIEW.pdf)
 
-[LabVIEW for FRC - National Instruments](http://ni.com/frc)
+[LabVIEW for FRC - National Instruments](http://ni.com/frc))
+
+[LabVIEW for FRC - Lakota Robotics: Basic & Advanced videos](https://www.youtube.com/watch?v=Xs8_Cj1FHgA&feature=youtu.be)
 
 [LabVIEW for FRC - video series](https://www.youtube.com/watch?v=K99iHIpGWgQ)
 
