@@ -18,6 +18,8 @@
 
 [FRC LabVIEW Quick Start Guide](https://forums.ni.com/t5/FIRST-Robotics-Competition/2015-FRC-LabVIEW-Quick-Start-Guide/ta-p/3528790)
 
+[LabVIEW Quick Reference Card (PDF)](https://1010robotics.github.io/Resources/LabVIEW%20Quick%20Reference%20Card.pdf)
+
 [The Secret Book of FRC LabVIEW](https://www.chiefdelphi.com/forums/showthread.php?t=120756) (Scroll towards the bottom to find latest version. Though written in 2013, the book is an excellent introduction to LabVIEW for FRC.)
 
 [Build your FIRST Robot in 3 days](https://www.youtube.com/user/nifirstrobotics)
