@@ -22,6 +22,8 @@
 
 [The Secret Book of FRC LabVIEW](https://www.chiefdelphi.com/forums/showthread.php?t=120756) (Scroll towards the bottom to find latest version. Though written in 2013, the book is an excellent introduction to LabVIEW for FRC.)
 
+[FRC WPI Robotics Library Overview](https://1010robotics.github.io/Resources/FRC%20WPI%20Robotics%20Library%20Overview.pdf)
+
 [Build your FIRST Robot in 3 days](https://www.youtube.com/user/nifirstrobotics)
 
 Test your LabVIEW proficiency with the Free [LabVIEW Fundamentals Exam](https://lumen.ni.com/nicif/us/ekitcladexmprp/content.xhtml) (Need to create an account)
