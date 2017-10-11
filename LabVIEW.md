@@ -16,6 +16,8 @@
 
 [LabVIEW for FRC](http://ni.com/frc)
 
+[FRC LabVIEW Programming](https://wpilib.screenstepslive.com/s/4485/m/13811)
+
 [FRC LabVIEW Quick Start Guide](https://forums.ni.com/t5/FIRST-Robotics-Competition/2015-FRC-LabVIEW-Quick-Start-Guide/ta-p/3528790)
 
 [LabVIEW Quick Reference Card (PDF)](https://1010robotics.github.io/Resources/LabVIEW%20Quick%20Reference%20Card.pdf)
