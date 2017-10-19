@@ -6,7 +6,7 @@
 
 [Self Paced LabVIEW Training](http://home.hit.no/~hansha/documents/labview/labview.htm)
 
-[LabVIEW Basics - NI](http://www.ni.com/getting-started/labview-basics/)
+[Learn NI LabVIEW Basics](http://www.ni.com/getting-started/labview-basics/)
 
 [LabVIEW Basics by Halvorsen](http://home.hit.no/~hansha/video/labview_basics.php)
 
