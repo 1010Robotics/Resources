@@ -8,7 +8,7 @@
 
 [LabVIEW Basics - NI](http://www.ni.com/getting-started/labview-basics/)
 
-[LabVIEW Basics](http://home.hit.no/~hansha/video/labview_basics.php)
+[LabVIEW Basics by Halvorsen](http://home.hit.no/~hansha/video/labview_basics.php)
 
 [LabVIEW Skills Guide](http://www.ni.com/labview/skills-guide/)
 
