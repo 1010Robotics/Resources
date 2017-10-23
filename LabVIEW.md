@@ -40,9 +40,9 @@ Test your LabVIEW proficiency with the Free [LabVIEW Fundamentals Exam](https://
 
 ## THE NITTY GRITTY DETAILS
 
-[How-to Guides](https://urldefense.proofpoint.com/v2/url?u=https-3A__wiki.robojackets.org_How-5Fto-5FGuides&d=DwICAg&c=IjnBivVn_CKC8WAS_9C6bQ&r=N19fboDJwYb3iGwplPzFSIz_ruvibSVkdAiU-IvF-k4&m=yZYGtudpX8Xawg1bJQSdD9w585I1vAXgTr1wYant51I&s=otMbAAjb5jja1jWxKPPmjKdIzPUd3rU5P1PJ7Jc23dA&e=): A set of guides to complete various mechanical, electrical, or programming tasks.
+[How-to Guides](https://wiki.robojackets.org/How_to_Guides): A set of guides to complete various mechanical, electrical, or programming tasks.
 
-[Technology Enrichment Sessions](https://urldefense.proofpoint.com/v2/url?u=https-3A__wiki.robojackets.org_TE-5FSessions-23Previous-5FSessions&d=DwICAg&c=IjnBivVn_CKC8WAS_9C6bQ&r=N19fboDJwYb3iGwplPzFSIz_ruvibSVkdAiU-IvF-k4&m=UqWimAdXuOIouXhWeSwtDvVZ5nZ3AOZzdKrpD7C3Cmc&s=SSSwjs1X4PYVP7TRL8_XXCA-Vxmzrk6BKWAzs39nCrk&e=); TE Sessions by **Robojackets.** Strategic and Technical details of FRC.
+[Technology Enrichment Sessions](https://wiki.robojackets.org/TE_Sessions#Previous_Sessions); TE Se)ssions by **Robojackets.** Strategic and Technical details of FRC.
 
 [Electrical Training](https://robojackets.org/training/electrical/): Introduction to a wide variety of Electrical Engineering concepts - by **Robojackets**.
 
