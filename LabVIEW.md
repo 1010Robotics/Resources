@@ -1,5 +1,7 @@
 # LABVIEW
 
+## TUTORIALS
+
 [Getting Started](http://www.learnni.com/getting-started)
 
 [Self-Paced Video Training for Students](http://www.ni.com/academic/students/learn/)
@@ -35,6 +37,10 @@
 [Build your FIRST Robot in 3 days](https://www.youtube.com/user/nifirstrobotics)
 
 Test your LabVIEW proficiency with the Free [LabVIEW Fundamentals Exam](https://lumen.ni.com/nicif/us/ekitcladexmprp/content.xhtml) (Need to create an account)
+
+## THE NITTY GRITTY DETAILS
+
+[How-to Guides](https://urldefense.proofpoint.com/v2/url?u=https-3A__wiki.robojackets.org_How-5Fto-5FGuides&d=DwICAg&c=IjnBivVn_CKC8WAS_9C6bQ&r=N19fboDJwYb3iGwplPzFSIz_ruvibSVkdAiU-IvF-k4&m=yZYGtudpX8Xawg1bJQSdD9w585I1vAXgTr1wYant51I&s=otMbAAjb5jja1jWxKPPmjKdIzPUd3rU5P1PJ7Jc23dA&e=): A set of guides to complete various mechanical, electrical, or programming tasks.
 
 [Using existing C code or a DLL in LabVIEW](http://forums.ni.com/t5/Example-Program-Drafts/Using-Existing-C-Code-or-a-DLL-in-LabVIEW/ta-p/3499233)
 
