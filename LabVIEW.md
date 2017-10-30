@@ -40,6 +40,8 @@ Test your LabVIEW proficiency with the Free [LabVIEW Fundamentals Exam](https://
 
 ## THE NITTY GRITTY DETAILS
 
+[VI High LabVIEW Training Videos](http://blog.sixclear.com/)
+
 [How-to Guides](https://wiki.robojackets.org/How_to_Guides): A set of guides to complete various mechanical, electrical, or programming tasks.
 
 [Technology Enrichment Sessions](https://wiki.robojackets.org/TE_Sessions#Previous_Sessions); TE Se)ssions by **Robojackets.** Strategic and Technical details of FRC.
