@@ -46,6 +46,8 @@
 
 [Words of Wisdom](https://renegaderobotics.org/the-path-to-prototyping/)
 
+[Programming AUTONOMOUS](https://renegaderobotics.org/autonomous-testing/)
+
 
 ## TUTORIALS
 
