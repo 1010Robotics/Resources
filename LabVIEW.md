@@ -6,7 +6,7 @@
 
 [Self-Paced Video Training for Students](http://www.ni.com/academic/students/learn/)
 
-[Self Paced LabVIEW Training](http://home.hit.no/~hansha/documents/labview/labview.htm)
+[//]: # [Self Paced LabVIEW Training](http://home.hit.no/~hansha/documents/labview/labview.htm)
 
 [Learn NI LabVIEW Basics](http://www.ni.com/getting-started/labview-basics/)
 
