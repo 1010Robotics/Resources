@@ -10,11 +10,11 @@
 
 <!-- [Learn NI LabVIEW Basics](http://www.ni.com/getting-started/labview-basics/) -->
 
-[LabVIEW Basics by Halvorsen](http://home.hit.no/~hansha/video/labview_basics.php)
+<!-- [LabVIEW Basics by Halvorsen](http://home.hit.no/~hansha/video/labview_basics.php) -->
 
-[LabVIEW Skills Guide](http://www.ni.com/labview/skills-guide/)
+<!-- [LabVIEW Skills Guide](http://www.ni.com/labview/skills-guide/) -->
 
-[Introduction to LabVIEW (PDF)](http://home.hit.no/~hansha/documents/labview/training/Introduction%20to%20LabVIEW/Introduction%20to%20LabVIEW.pdf)
+<!-- [Introduction to LabVIEW (PDF)](http://home.hit.no/~hansha/documents/labview/training/Introduction%20to%20LabVIEW/Introduction%20to%20LabVIEW.pdf) -->
 
 [LabVIEW for FRC - National Instruments](http://ni.com/frc))
 
