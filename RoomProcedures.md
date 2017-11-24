@@ -28,4 +28,4 @@
 
 14. Move field away from wall in Boardroom - otherwise its too cramped in that area.
 
-15. More workspace / tables in the rooms as we usually run out of tables.
+Recommendation 15. More workspace / tables in the rooms as we usually run out of tables.
