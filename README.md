@@ -73,9 +73,11 @@
 
 [Josh's Link Library (Full)](https://1010robotics.github.io/Resources/joshlinks)
 
-## Room and Field Procedures
+## Room and Field Procedures & Recommendations
+
 [Room Procedures](https://1010robotics.github.io/Resources/RoomProcedures)
 
 [Field Procedures](https://1010robotics.github.io/Resources/FieldProcedures)
 
+[Recommendations](https://1010robotics.github.io/Resources/Recommendations)
 
