@@ -36,7 +36,7 @@
 
 18. Don’t waste zip ties.
 
-19. Maintain the info on the whiteboard (tools, etc) and keep it up-to-date.
+19. Maintain the info on the whiteboard (tools, etc) in the Robo Dojo, and keep it up-to-date.
 
 20. Let Mr. Ablett know when we are down to the last few items on any part so we can order them in advance. If we wait till the last item is taken, it may be too late to get those parts for the next competition.
 
