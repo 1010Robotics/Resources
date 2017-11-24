@@ -3,7 +3,7 @@
 Always remember to be courteous and try to use the field to the benifit of all robot groups.  Take care of the surface and the game pieces at all times.
 1. Only 4 robots on field at any time and remember we have two field setups.
 
-2. If parts fall off robot onto the field, must pick them up immediately.  This way you will know if any parts on the field are from your robot.
+2. If parts fall off robot onto the field, you should remove them as soon as safe to do so.  This way you will know if any parts on the field are from your robot and will reduce the chance of damage to your robot or the field.
 
 3. A group that is done with the field, makes sure its game ready for the next robot. i.e. Reset field after use for the next group.
 
