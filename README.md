@@ -20,12 +20,12 @@
 
 ## 2017-2018 VEX Robotics Competition
 
-### Start preparing Summer 2017
-[Summer Of Learning](http://cs2n.org) -- Earn Badges and Certifications by learning how to program a VEX IQ robot using Graphical RobotC. Learn Robot Math, programming different Sensors, and controlling Program Flow. Need to first create an account on http://cs2n.org.
+<!--- ### Start preparing Summer 2017
+[Summer Of Learning](http://cs2n.org) -- Earn Badges and Certifications by learning how to program a VEX IQ robot using Graphical RobotC. Learn Robot Math, programming different Sensors, and controlling Program Flow. Need to first create an account on http://cs2n.org. -->
 
 [VEX In The Zone](https://www.youtube.com/watch?v=1Yo_mlR1VJU) -- Short introductory video.
 
-[FREE In the Zone RobotC Programming Workshop on Saturday, Sept 30, 2017](https://www.picatic.com/penguworkshop2017) **ONLY 2 spots left as of 10:00 pm on 9/27/2017**
+<!--- [FREE In the Zone RobotC Programming Workshop on Saturday, Sept 30, 2017](https://www.picatic.com/penguworkshop2017) **ONLY 2 spots left as of 10:00 pm on 9/27/2017** -->
 
 [VEX Robotics Competition In The Zone Vrtual Robot](http://www.robotvirtualworlds.com/inthezone/)
 -- Use RobotC to program your virtual robot to stack as many cones as you can and then park in the end zone for even more points!
@@ -72,5 +72,10 @@
 ## Josh's Research
 
 [Josh's Link Library (Full)](https://1010robotics.github.io/Resources/joshlinks)
+
+## Room and Field Procedures
+[Room Procedures](https://1010robotics.github.io/Resources/RoomProcedures)
+
+[Field Procedures](https://1010robotics.github.io/Resources/FieldProcedures)
 
 
