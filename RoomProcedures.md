@@ -28,4 +28,17 @@
 
 14. Move field away from wall in Boardroom - otherwise its too cramped in that area.
 
-Recommendation 15. More workspace / tables in the rooms as we usually run out of tables.
+15. Clean up the ground before you leave (and stack your chairs).
+
+16. When cutting zip ties, make sure to clean up the stuff on the ground.
+
+17. When cutting stuff, file both sides of the piece you cut.
+
+18. Don’t waste zip ties.
+
+19. Maintain the info on the whiteboard (tools, etc) and keep it up-to-date.
+
+20. Let Mr. Ablett know when we are down to the last few items on any part so we can order them in advance. If we wait till the last item is taken, it may be too late to get those parts for the next competition.
+
+
+
