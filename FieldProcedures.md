@@ -1,6 +1,7 @@
 ## Robotics Academy Field Procedures
 
 Always remember to be courteous and try to use the field to the benifit of all robot groups.  Take care of the surface and the game pieces at all times.
+
 1. Only 4 robots on field at any time and remember we have two field setups.
 
 2. If parts fall off robot onto the field, you should remove them as soon as safe to do so.  This way you will know if any parts on the field are from your robot and will reduce the chance of damage to your robot or the field.
@@ -13,8 +14,26 @@ Always remember to be courteous and try to use the field to the benifit of all r
 
 6. Must wear socks while on the field.
 
-7. work out a time agreement when other teams are waiting to use the field.
+7. Work out a time agreement when other teams are waiting to use the field.
 
 8. Don't leave stuff around the field - otherwise its difficult to access the field.
 
 9. Put a one-turn limit on autonomous runs and skills runs in the days leading up to a tournament.
+
+10. No more than 1 skills run or match (no consecutive matches).
+
+11. No more than 5 autonomous runs.
+
+12. Robot on field for no longer than 20 mins.
+
+13. Up to 4 robots on the field doing autonomous and driving.
+
+14. No stacking cones without a robot (throwing counts as that).
+
+15. When practicing match loads make sure that you and the cones don’t get in people’s way.
+
+16. Don’t leave your robot on the field unattended.
+
+17. No building on the field.
+
+
