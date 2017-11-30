@@ -44,7 +44,9 @@
 
 [CORTEX Motor Ports 1 & 10](https://renegaderobotics.org/motor-ports-1-10/)
 
-[CORTEX Digital Ports 4 & 10](https://www.vexforum.com/index.php/8874-quadrature-encoder-values-not-working-from-robotc-tech-forum/p1#p83607)
+[CORTEX Digital Ports 4 & 10 - Part 1](https://www.vexforum.com/index.php/8874-quadrature-encoder-values-not-working-from-robotc-tech-forum/p1#p83607)
+
+[CORTEX Digital Ports 4 & 10 - Part 2](https://www.vexforum.com/index.php/8204-problems-with-2-sonar-sensors/p1#p76481)
 
 [Words of Wisdom](https://renegaderobotics.org/the-path-to-prototyping/)
 
