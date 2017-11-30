@@ -48,6 +48,8 @@
 
 [CORTEX Digital Ports 4 & 10 - Part 2](https://www.vexforum.com/index.php/8204-problems-with-2-sonar-sensors/p1#p76481)
 
+[CORTEX Digital Ports 4 & 10 - Part 3](https://www.vexforum.com/index.php/9292-how-many-interrupts-does-the-cortex-have-again/0)
+
 [Words of Wisdom](https://renegaderobotics.org/the-path-to-prototyping/)
 
 [Programming AUTONOMOUS](https://renegaderobotics.org/autonomous-testing/)
