@@ -11,3 +11,5 @@
 5. Shorter stools so we can tuck our legs in under the table.
 
 6. Move field away from wall in Boardroom - otherwise its too cramped in that area.
+
+7. Have a Field Cleaner to take care of the cones. Can have cleaners in at specific times (3:00, 6:00) checking for lost parts. 
