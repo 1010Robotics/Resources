@@ -28,13 +28,13 @@ Always remember to be courteous and try to use the field to the benefit of all r
 
 13. Up to 4 robots on the field doing autonomous and driving.
 
-14. No stacking cones without a robot (throwing counts as that).  No flipping cones.
+14. No stacking cones without a robot (throwing counts as that).  No flipping cones.  Don't stack cones.
 
 15. When practicing match loads make sure that you and the cones don’t get in people’s way.
 
 16. Don’t leave your robot on the field unattended.
 
-17. No building/fixing on the field.
+17. No building/fixing on the field. No leaning on field.
 
 18. No leaning in on the side of the robotics field while robots are in there.
 
@@ -50,8 +50,12 @@ Always remember to be courteous and try to use the field to the benefit of all r
 
 24. Don’t drive in front of a group testing autonomous. Auto takes priority.
 
-25. Don’t play with the cones high near edge of fielid (5 max).
+25. Don’t play with the cones high near edge of field (5 max).
 
-26. Don't stack cones 
+26. Don't drive your robot in an area that someone else is doing auto in.
+
+27. Don't stand/sit on the field while other people are driving. 
+
+28. Everyone should be responsible for the reset for the cones and mobile goals. 
 
 
