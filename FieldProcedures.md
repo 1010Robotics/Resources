@@ -28,7 +28,7 @@ Always remember to be courteous and try to use the field to the benefit of all r
 
 13. Up to 4 robots on the field doing autonomous and driving.
 
-14. No stacking cones without a robot (throwing counts as that).
+14. No stacking cones without a robot (throwing counts as that).  No flipping cones.
 
 15. When practicing match loads make sure that you and the cones don’t get in people’s way.
 
@@ -46,12 +46,12 @@ Always remember to be courteous and try to use the field to the benefit of all r
 
 22. Make sure both  controllers and vex competition switches are OFF or DISABLED when not using.
 
-23. Pick up fallen parts off the field
+23. Pick up fallen parts off the field.
 
-24. Take down your stacks.
+24. Don’t drive in front of a group testing autonomous. Auto takes priority.
 
-25. Don’t drive in front of a group testing autonomous.
+25. Don’t play with the cones high near edge of fielid (5 max).
 
-26. Don’t play with the cones.
+26. Don't stack cones 
 
 
