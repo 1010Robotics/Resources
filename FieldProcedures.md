@@ -1,6 +1,6 @@
 ## Robotics Academy Field Procedures
 
-Always remember to be courteous and try to use the field to the benifit of all robot groups.  Take care of the surface and the game pieces at all times.
+Always remember to be courteous and try to use the field to the benefit of all robot groups.  Take care of the surface and the game pieces at all times.
 
 1. Only 4 robots on field at any time and remember we have two field setups.
 
