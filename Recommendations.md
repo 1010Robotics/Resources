@@ -13,3 +13,9 @@
 6. Move field away from wall in Boardroom - otherwise its too cramped in that area.
 
 7. Have a Field Cleaner to take care of the cones. Can have cleaners in at specific times (3:00, 6:00) checking for lost parts. 
+
+8. Each team should have only one table.
+
+9. Teams can have a bigger table for cutting, etc.
+
+10. People can have small bins to store parts that drop.  Also, bins that we can use for storing extra materials.
