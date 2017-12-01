@@ -40,5 +40,16 @@
 
 20. Let Mr. Ablett know when we are down to the last few items on any part so we can order them in advance. If we wait till the last item is taken, it may be too late to get those parts for the next competition.
 
+21. Run robot in batteries on batteries higher than 8.5V.
+
+22. Start cleaning up 15 minutes before you leave.
+
+23. Take apart not used pieces and place them back once a week.
+
+24. When returning one piece of chain attach it to another chain instead of just placing it in alone.
+
+25. Cut lexan with as little waste as possible.
+
+
 
 
