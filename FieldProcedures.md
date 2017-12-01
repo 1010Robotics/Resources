@@ -34,7 +34,7 @@ Always remember to be courteous and try to use the field to the benifit of all r
 
 16. Don’t leave your robot on the field unattended.
 
-17. No building on the field.
+17. No building/fixing on the field.
 
 18. No leaning in on the side of the robotics field while robots are in there.
 
@@ -45,4 +45,13 @@ Always remember to be courteous and try to use the field to the benifit of all r
 21. Don’t leave connected controllers and vex competition switches unattended on the field.
 
 22. Make sure both  controllers and vex competition switches are OFF or DISABLED when not using.
+
+23. Pick up fallen parts off the field
+
+24. Take down your stacks.
+
+25. Don’t drive in front of a group testing autonomous.
+
+26. Don’t play with the cones.
+
 
