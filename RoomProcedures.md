@@ -10,9 +10,9 @@
 
 5. Stools tucked in when not in use. Backpacks under the table.
 
-6. Keep walkway clear - no bags, no stools out. Don't stand in middle of walkway. No loitering in walking area. 
+6. Keep walkway clear - no bags, no stools out. Put stools under desks when not being used. Don't stand in middle of walkway. No loitering in walking area. 
 
-7. No parts under the table or in walkway - clean up your garbage!
+7. No parts under the table or in walkway - clean up your garbage! Clean up after yourself.
 
 8. If someone takes your tools and loses them, they are liable for it and must replace them.
 
@@ -47,6 +47,12 @@
 23. Don’t steal – ask for permission.
 
 24. Put spare parts back in the right cupboard.
+
+25. Keep your bay organized. 
+
+26. Ask Mr. Ablett before taking any parts from any other group.
+
+27. Before 1:45 pm, in the Boardroom list the names of group members who are absent.
 
 
 
