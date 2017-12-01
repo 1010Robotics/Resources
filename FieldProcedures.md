@@ -36,4 +36,13 @@ Always remember to be courteous and try to use the field to the benifit of all r
 
 17. No building on the field.
 
+18. No leaning in on the side of the robotics field while robots are in there.
+
+19. If you see FOD on the field pick it up and place it the boxes.
+
+20. Be careful of robots on the field (especially when testing autonomous).
+
+21. Don’t leave connected controllers and vex competition switches unattended on the field.
+
+22. Make sure both  controllers and vex competition switches are OFF or DISABLED when not using.
 
