@@ -2,9 +2,13 @@
 
 ## TUTORIALS
 
+\*\*\* **NEW** \*\*\*[FUNdamentals of LabVIEW for FRC 2018 - Episode 1](https://www.youtube.com/watch?v=NrWpRDef5z4)
+
 [Getting Started](http://www.learnni.com/getting-started)
 
 [Self-Paced Video Training for Students](http://www.ni.com/academic/students/learn/)
+
+[LabVIEW for FRC - National Instruments](http://ni.com/frc)
 
 <!-- [Self Paced LabVIEW Training](http://home.hit.no/~hansha/documents/labview/labview.htm) -->
 
@@ -16,11 +20,9 @@
 
 <!-- [Introduction to LabVIEW (PDF)](http://home.hit.no/~hansha/documents/labview/training/Introduction%20to%20LabVIEW/Introduction%20to%20LabVIEW.pdf) -->
 
-[LabVIEW for FRC - National Instruments](http://ni.com/frc)
+<!-- [LabVIEW for FRC - Lakota Robotics: Basic & Advanced videos](https://www.youtube.com/watch?v=Xs8_Cj1FHgA&feature=youtu.be) -->
 
-[LabVIEW for FRC - Lakota Robotics: Basic & Advanced videos](https://www.youtube.com/watch?v=Xs8_Cj1FHgA&feature=youtu.be)
-
-[LabVIEW for FRC - video series](https://www.youtube.com/watch?v=K99iHIpGWgQ)
+<!-- [LabVIEW for FRC - video series](https://www.youtube.com/watch?v=K99iHIpGWgQ) -->
 
 [FRC LabVIEW Programming](https://wpilib.screenstepslive.com/s/4485/m/13811)
 
