@@ -2,7 +2,7 @@
 
 ## TUTORIALS
 
-\*\*\* **NEW** \*\*\*[FUNdamentals of LabVIEW for FRC 2018 - Episode 1](https://www.youtube.com/watch?v=NrWpRDef5z4)
+\*\*\* **NEW** \*\*\* [FUNdamentals of LabVIEW for FRC 2018 - Episode 1](https://www.youtube.com/watch?v=NrWpRDef5z4) \*\*\* **NEW** \*\*\*
 
 [Getting Started](http://www.learnni.com/getting-started)
 
