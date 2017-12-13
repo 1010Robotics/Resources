@@ -1,5 +1,7 @@
 # Resources for 1010 Robotics
 
+<!-- ![Logo](https://github.com/1010Robotics/Resources/blob/master/Images/Mechatronics-Robotics.png) -->
+
 ![Logo](http://oi63.tinypic.com/2zybcy8.jpg)
 
 ## LINKS
