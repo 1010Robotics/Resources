@@ -1,5 +1,7 @@
 # Resources for 1010 Robotics
 
+![Logo](https://github.com/1010Robotics/Resources/blob/master/Images/Mechatronics-Robotics.png)
+
 ## LINKS
 
 [Facebook Link](https://www.facebook.com/TenTonRobotics/)
