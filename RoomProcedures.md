@@ -3,15 +3,21 @@
 
 1. Tables
 
-Your robot, parts tools and other equipment should only Occupy your groups assigned table. Keep this area as tidy as possible given the circumstances. Tables will be cleared at the end of each build session. Robots may not be left on tables overnight.
+Your robot, parts tools and other equipment should only Occupy your groups assigned table. Keep this area as tidy as possible given the circumstances. 
+
+Tables will be cleared at the end of each build session. Robots may not be left on tables overnight.
 
 2. Bays 
 
-Bays are assigned for each robot group.  These should be kept ordered and organized.  The space and the floor in front of it is to be kept clean and tidy at all times.
+Bays are assigned for each robot group.  These should be kept ordered and organized.
+
+The space and the floor in front of it is to be kept clean and tidy at all times.
 
 3. Tools
 
-Team tools must be returned to their proper storage place immediately after use.  Group tools will be kept with the appropriate robot. Please Keep all tools organized.  
+Team tools must be returned to their proper storage place immediately after use.  
+
+Group tools will be kept with the appropriate robot. Please Keep all tools organized.  
 
 4. Parts
 
@@ -23,17 +29,25 @@ If you wish to keep a unused assembly please ask Mr. Ablett for permission, othe
 
 5. Floor
 
-Parts should not be left on the floor for any extended time.  The floor must be kept as clear as possible at all times.  Backpacks and other bags should be under the tables.  The walkways should be clear of all possible obstructions. This includes always being aware of clear passage around the room for everyone. 
+Parts should not be left on the floor for any extended time.  
+
+The floor must be kept as clear as possible at all times.  
+
+Backpacks and other bags should be under the tables.  
+
+The walkways should be clear of all possible obstructions. This includes always being aware of clear passage around the room for everyone. 
 
 
 6. Stools
 
-Stools should be tucked under tables when not in use. If possible put the stools on top of the table at the end of the day to help the custodial staff sweep dust off the floor. 
+Stools should be tucked under tables when not in use.
+
+If possible put the stools on top of the table at the end of the day to help the custodial staff sweep dust off the floor. 
 
 
 7. Cleaning
 
-The work space should be kept clean.  No zip ties, rubber bands, lunch remains, bottles should be lying around.  Please place in the appropriate container such as recyling or trash. 
+The work space should be kept clean.  No cut zip ties, rubber bands, lunch remains, bottles should be lying around.  Please place in the appropriate container such as recyling or trash. 
 
 White boards should be cleaned after use, take a picture if you need the information later.
 
