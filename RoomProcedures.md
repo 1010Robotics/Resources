@@ -10,12 +10,22 @@ Your robot, parts tools and other equipment should only Occupy your groups assig
 Team tools must be returned to their proper storage place immediately after use.  Group tools will be kept with the appropriate robot. Please Keep all tools organized.  
 
 3. Parts
+
 Team parts must be returned to the proper storage place immediately after selection.  Example: the the box of axles is always in the cupboards so other teams can find them.
 
-4. F
-5. Stools tucked in when not in use. Backpacks under the table.
+4. Floor
 
-6. Keep walkway clear - no bags, no stools out. Put stools under desks when not being used. Don't stand in middle of walkway. No loitering in walking area. 
+Parts should not be left on the floor for any extended time.  The floor must be kept as clear as possible at all times.  Backpacks and other bags should be under the tables.  The walkways should be clear of all possible obstructions. This includes always being aware of clear passage around the room for everyone. 
+
+
+5. Stools
+
+Stools should be tucked under tables when not in use. If possible put the stools on top of the table at the end of the day to help the custodial staff sweep dust off the floor. 
+
+
+6. Cleaning
+
+The work space should be kept clean.  No zip ties, rubber bands, lunch remains, bottles should be lying around.  Please place in the appropriate container such as recyling or trash.
 
 7. No parts under the table or in walkway - clean up your garbage! Clean up after yourself.
 
