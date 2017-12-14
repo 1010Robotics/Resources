@@ -5,7 +5,9 @@
 
 Your robot, parts tools and other equipment should only Occupy your groups assigned table. Keep this area as tidy as possible given the circumstances. 
 
-Tables will be cleared at the end of each build session. Robots may not be left on tables overnight.
+Tables will be cleared at the end of each build session. 
+
+Robots may not be left on tables overnight.
 
 2. Bays 
 
