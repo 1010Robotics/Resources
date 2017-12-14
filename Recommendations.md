@@ -19,3 +19,11 @@
 9. Teams can have a bigger table for cutting, etc.
 
 10. People can have small bins to store parts that drop.  Also, bins that we can use for storing extra materials.
+
+11. Cut lexan with as little waste as possible.
+
+12. When returning one piece of chain attach it to another chain instead of just placing it in alone.
+
+13. Take apart not used pieces and place them back once a week.
+
+14. When cutting stuff, file both sides of the piece you cut.
