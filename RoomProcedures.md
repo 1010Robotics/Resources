@@ -1,7 +1,7 @@
 ## Robotics Academy Room Procedures: Maintain a professional level work space
 
 
-1. Tables
+**1. Tables**
 
 Your robot, parts tools and other equipment should only Occupy your groups assigned table. Keep this area as tidy as possible given the circumstances. 
 
