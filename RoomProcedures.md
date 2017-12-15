@@ -55,7 +55,7 @@ White boards should be cleaned after use, take a picture if you need the informa
 
 **8. Teamwork**
 
-Before 1:45 pm, in the Boardroom list the names of group members who are absent.
+Before 1:45 pm Report to the teachers and record in the Boardroom the names of any group members who are absent.
 
 
 
