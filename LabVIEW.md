@@ -56,3 +56,13 @@ Test your LabVIEW proficiency with the Free [LabVIEW Fundamentals Exam](https://
 [Using existing C code or a DLL in LabVIEW](http://forums.ni.com/t5/Example-Program-Drafts/Using-Existing-C-Code-or-a-DLL-in-LabVIEW/ta-p/3499233)
 
 [Calling C/C++ DLLs from LabVIEW](https://forums.ni.com/t5/Developer-Center-Resources/Calling-C-C-DLLs-from-LabVIEW/ta-p/3522488)
+
+
+## LabVIEW Training @ BCIT - Jan 06, 2018
+
+[LabVIEW Quick Reference Card (PDF)](https://1010robotics.github.io/Resources/LabVIEW%20Quick%20Reference%20Card.pdf)
+
+[Broken VI](https://1010robotics.github.io/Resources/Broken-VI.vi)
+
+
+
