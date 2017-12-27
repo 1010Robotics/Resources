@@ -49,7 +49,7 @@ Test your LabVIEW proficiency with the Free [LabVIEW Fundamentals Exam](https://
 
 [How-to Guides](https://wiki.robojackets.org/How_to_Guides): A set of guides to complete various mechanical, electrical, or programming tasks.
 
-[Technology Enrichment Sessions](https://wiki.robojackets.org/TE_Sessions#Previous_Sessions); TE Se)ssions by **Robojackets.** Strategic and Technical details of FRC.
+[Technology Enrichment Sessions](https://wiki.robojackets.org/TE_Sessions#Previous_Sessions); TE Sessions by **Robojackets.** Strategic and Technical details of FRC.
 
 [Electrical Training](https://robojackets.org/training/electrical/): Introduction to a wide variety of Electrical Engineering concepts - by **Robojackets**.
 
