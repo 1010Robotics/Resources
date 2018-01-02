@@ -64,5 +64,9 @@ Test your LabVIEW proficiency with the Free [LabVIEW Fundamentals Exam](https://
 
 [Broken VI](https://1010robotics.github.io/Resources/Broken-VI.vi)
 
+[FIRST POWER UP Game & Season Materials](https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system)
+
+
+
 
 
