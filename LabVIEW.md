@@ -60,13 +60,17 @@ Test your LabVIEW proficiency with the Free [LabVIEW Fundamentals Exam](https://
 
 ## LabVIEW Training @ BCIT - Jan 06, 2018
 
+[FIRST POWER UP Game & Season Materials](https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system)
+
 [LabVIEW Quick Reference Card (PDF)](https://1010robotics.github.io/Resources/LabVIEW%20Quick%20Reference%20Card.pdf)
 
 [LabVIEW Style Checklist](http://zone.ni.com/reference/en-XX/help/371361P-01/lvdevconcepts/checklist/)
 
 [Broken VI](https://1010robotics.github.io/Resources/Broken-VI.vi)
 
-[FIRST POWER UP Game & Season Materials](https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system)
+[Huskie Robotics](https://github.com/HuskieRobotics/HuskieRobotics-Public)
+
+
 
 
 
