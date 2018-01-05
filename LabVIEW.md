@@ -6,6 +6,8 @@
 
 \*\*\* **NEW** \*\*\* [FUNdamentals of LabVIEW for FRC 2018 - Episode 1](https://www.youtube.com/watch?v=NrWpRDef5z4) \*\*\* **NEW** \*\*\*
 
+ \*\*\* **NEW** \*\*\* [FUNdamentals of LabVIEW for FRC 2018 - Episode 2 - Vision, PID, Simulator](https://www.youtube.com/watch?v=WSUBtVjQvcM)  \*\*\* **NEW** \*\*\*
+
 [Getting Started](http://www.learnni.com/getting-started)
 
 [Self-Paced Video Training for Students](http://www.ni.com/academic/students/learn/)
