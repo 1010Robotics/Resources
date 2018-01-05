@@ -68,6 +68,10 @@ Test your LabVIEW proficiency with the Free [LabVIEW Fundamentals Exam](https://
 
 [Broken VI](https://1010robotics.github.io/Resources/Broken-VI.vi)
 
+[XBox Controller Mapping](https://1010robotics.github.io/Resources/Joystick_XBox_Mapping.jpg)
+
+[Logitech Controller Mapping](https://1010robotics.github.io/Resources/Joystick_LogitechF310_Mapping.pdf)
+
 [Huskie Robotics](https://github.com/HuskieRobotics/HuskieRobotics-Public)
 
 
