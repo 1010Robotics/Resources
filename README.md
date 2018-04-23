@@ -61,7 +61,7 @@
 
 ## TUTORIALS
 
-[Atom]((https://1010robotics.github.io/Resources/Atom)
+[Atom](https://1010robotics.github.io/Resources/Atom)
 
 [GitHub](https://1010robotics.github.io/Resources/GitHub)
 
