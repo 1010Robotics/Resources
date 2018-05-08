@@ -1,5 +1,7 @@
 # RobotC
 
+[The Beginner's Guide to RobotC](http://georgegillard.com/documents) <-- Very Good!
+
 [RobotC for VEX Cortex](http://www.robotc.net/tutor/)
 
 [VEX EDR VIDEO TRAINER](http://www.robotc.net/education/curriculum/cortex/)
