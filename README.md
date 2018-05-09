@@ -75,6 +75,8 @@
 
 [Java for FRC](https://1010robotics.github.io/Resources/JavaForFRC)
 
+[PID](https://1010robotics.github.io/Resources/PID)
+
 [Useful Materials](https://1010robotics.github.io/Resources/UsefulMaterials)
 
 ## Software Projects
