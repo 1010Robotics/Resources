@@ -50,7 +50,9 @@
 
 [Tips for Pit Chiefs](https://1010robotics.github.io/Resources/TIPS%20FOR%20FUTURE%20PIT%20BOSSES.pdf)
 
-[F.I.R.S.T. Checklists]((https://1010robotics.github.io/Resources/FIRST%20Checklists.pdf)
+[F.I.R.S.T. Checklists](https://1010robotics.github.io/Resources/FIRST%20Checklists.pdf)
+
+[VEX Worlds Checklists](https://docs.google.com/spreadsheets/d/1Pn1_nyLtrI8lJJ9LTMZYWKE8b8jzVD-IX3Q5H0onj5k/edit?ts=5af4ac6c#gid=1877866309)
 
 [CORTEX Motor Ports 1 & 10](https://renegaderobotics.org/motor-ports-1-10/)
 
