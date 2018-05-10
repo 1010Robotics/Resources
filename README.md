@@ -46,6 +46,10 @@
 
 [In The Zone Robot Inspection Checklist](https://1010robotics.github.io/Resources/InTheZone_RobotInspectionChecklist.pdf)
 
+[Tips for Cargo Masters](https://1010robotics.github.io/Resources/TIPS%20FOR%20FUTURE%20CARGOMASTERS.pdf)
+
+[Tips for Pit Chiefs](https://1010robotics.github.io/Resources/TIPS%20FOR%20FUTURE%20PIT%20BOSSES.pdf)
+
 [CORTEX Motor Ports 1 & 10](https://renegaderobotics.org/motor-ports-1-10/)
 
 [CORTEX Digital Ports 4 & 10 - Part 1](https://www.vexforum.com/index.php/8874-quadrature-encoder-values-not-working-from-robotc-tech-forum/p1#p83607)
