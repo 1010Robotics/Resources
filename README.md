@@ -9,10 +9,12 @@
 | Link | Media |
 |------|-------|
 |[Ten Ton Facebook](https://www.facebook.com/TenTonRobotics/)|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/2000px-F_icon.svg.png" width="96" length="96"/>|
+<!---
 |[Ten Ton Twitter](https://twitter.com/tentonrobotics?lang=en)|<img src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_logo_bird_transparent_png.png" length="96" width="96"/>|
 |[Ten Ton YouTube](https://www.youtube.com/channel/UCmcYFGZqtqBNyCCJ37hHmDQ/videos)|<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-256.png" length="96" width="96"/>|
 |[Ten Ton WIX site](http://tentonrobotics.wixsite.com/home)|<img src="http://icons.iconarchive.com/icons/sicons/basic-round-social/512/wix-icon.png" length="96" width="96"/>|
 |[Mechatronics/Robotics Academy page](http://westvancouverschools.ca/academies/mechatronics-robotics)|<img src="https://upload.wikimedia.org/wikipedia/en/3/3a/West_Vancouver_Schools_logo.png" length="200" width="96"/>|
+--->
 
 ## Videos <img align="right" src="http://www.pngmart.com/files/3/Video-Recorder-PNG-Picture.png" length="32" width="32"/>
 
