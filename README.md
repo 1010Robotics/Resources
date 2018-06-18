@@ -6,7 +6,7 @@
 
 ## Links <img align="right" src="https://png.icons8.com/metro/1600/link.png" length="32" width="32"/>
 | Link | Media |
-|--------------|--------------|
+|------|-------|
 |[Ten Ton Facebook](https://www.facebook.com/TenTonRobotics/)|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/2000px-F_icon.svg.png" width="96" length="96"/>|
 |[Ten Ton Twitter](https://twitter.com/tentonrobotics?lang=en)|<img src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_logo_bird_transparent_png.png" length="96" width="96"/>|
 |[Ten Ton YouTube](https://www.youtube.com/channel/UCmcYFGZqtqBNyCCJ37hHmDQ/videos)|<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-256.png" length="96" width="96"/>|
