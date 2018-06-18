@@ -1,105 +1,32 @@
-# Resources for 1010 Robotics
+# Ten Ton Robotics Resources
 
 <!-- ![Logo](https://github.com/1010Robotics/Resources/blob/master/Images/Mechatronics-Robotics.png) -->
 
 ![Logo](http://oi63.tinypic.com/2zybcy8.jpg)
 
-## LINKS
+## Links <img align="right" src="https://png.icons8.com/metro/1600/link.png" length="32" width="32"/>
+| Link | Media |
+|--------------|--------------|
+|[Ten Ton Facebook](https://www.facebook.com/TenTonRobotics/)|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/2000px-F_icon.svg.png" width="96" length="96"/>|
+|[Ten Ton Twitter](https://twitter.com/tentonrobotics?lang=en)|<img src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_logo_bird_transparent_png.png" length="96" width="96"/>|
+|[Ten Ton YouTube](https://www.youtube.com/channel/UCmcYFGZqtqBNyCCJ37hHmDQ/videos)|<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-256.png" length="96" width="96"/>|
+|[Ten Ton WIX site](http://tentonrobotics.wixsite.com/home)|<img src="http://icons.iconarchive.com/icons/sicons/basic-round-social/512/wix-icon.png" length="96" width="96"/>|
+|[Mechatronics/Robotics Academy page](http://westvancouverschools.ca/academies/mechatronics-robotics)|<img src="https://upload.wikimedia.org/wikipedia/en/3/3a/West_Vancouver_Schools_logo.png" length="200" width="96"/>|
 
-[Facebook Link](https://www.facebook.com/TenTonRobotics/)
+## Videos <img align="right" src="http://www.pngmart.com/files/3/Video-Recorder-PNG-Picture.png" length="32" width="32"/>
 
-[1010 Youtube channel](https://www.youtube.com/channel/UCmcYFGZqtqBNyCCJ37hHmDQ/videos)
+|Ten Ton Robotics|
+|-----------------|
+|[Robotics Promotion](https://www.youtube.com/watch?v=VkqiHvqSViA)|
+|[Ten Ton at VEX Worlds 2017](https://www.youtube.com/watch?v=oYYRGoB5eLE&t=17s)|
 
-[ Ten Ton Robotics WIX page](http://tentonrobotics.wixsite.com/home)
+|2018-2019 VEX Robotics Competition|
+|--------------------------|
+|[Turning Point Video](https://www.youtube.com/watch?v=CDDGBcs0TFM)|
 
-[West Vancouver Mechatronics/Robotics Academy page](http://westvancouverschools.ca/academies/mechatronics-robotics)
+## Procedures & Recommendations <img align="right" src="https://cdn4.iconfinder.com/data/icons/business-1-3/512/checklist-512.png" length="32" width="32"/>
+* [Room Procedures](https://1010robotics.github.io/Resources/RoomProcedures)
+* [Field Procedures](https://1010robotics.github.io/Resources/FieldProcedures)
+* [Recommendations](https://1010robotics.github.io/Resources/Recommendations)
 
-
-## VIDEOS
-### Ten Ton Robotics
-[2017 RECF online challenge video](https://www.youtube.com/watch?v=VkqiHvqSViA)
-
-[Post worlds a short video](https://www.youtube.com/watch?v=oYYRGoB5eLE&t=17s)
-
-
-## 2017-2018 VEX Robotics Competition
-
-<!--- ### Start preparing Summer 2017
-[Summer Of Learning](http://cs2n.org) -- Earn Badges and Certifications by learning how to program a VEX IQ robot using Graphical RobotC. Learn Robot Math, programming different Sensors, and controlling Program Flow. Need to first create an account on http://cs2n.org. -->
-
-[VEX In The Zone](https://www.youtube.com/watch?v=1Yo_mlR1VJU) -- Short introductory video.
-
-<!--- [FREE In the Zone RobotC Programming Workshop on Saturday, Sept 30, 2017](https://www.picatic.com/penguworkshop2017) **ONLY 2 spots left as of 10:00 pm on 9/27/2017** -->
-
-[VEX Robotics Competition In The Zone Vrtual Robot](http://www.robotvirtualworlds.com/inthezone/)
--- Use RobotC to program your virtual robot to stack as many cones as you can and then park in the end zone for even more points!
-
-[In The Zone Competition Updates](https://www.vexrobotics.com/vexedr/competition/vrc-current-game) -- Includes Game Video + Game Manual + iPhone/Android App with Game Manual & Score Keeper
-
-[In The Zone Referee Training Videos](https://www.youtube.com/watch?v=lNHTmUn9o58)
-
-## The Nitty Gritty Details
-
-[CORTEX Wiring Diagram](https://1010robotics.github.io/Resources/Cortex_Wiring_Diagram.pdf)
-
-[1010 Competition Packing List](https://1010robotics.github.io/Resources/1010%20Competition%20Packing%20List.pdf)
-
-[In The Zone Robot Inspection Checklist](https://1010robotics.github.io/Resources/InTheZone_RobotInspectionChecklist.pdf)
-
-[Tips for Cargo Masters](https://1010robotics.github.io/Resources/TIPS%20FOR%20FUTURE%20CARGOMASTERS.pdf)
-
-[Tips for Pit Chiefs](https://1010robotics.github.io/Resources/TIPS%20FOR%20FUTURE%20PIT%20BOSSES.pdf)
-
-[F.I.R.S.T. Checklists](https://1010robotics.github.io/Resources/FIRST%20Checklists.pdf)
-
-[VEX Worlds Checklists](https://docs.google.com/spreadsheets/d/1Pn1_nyLtrI8lJJ9LTMZYWKE8b8jzVD-IX3Q5H0onj5k/edit?ts=5af4ac6c#gid=1877866309)
-
-[CORTEX Motor Ports 1 & 10](https://renegaderobotics.org/motor-ports-1-10/)
-
-[CORTEX Digital Ports 4 & 10 - Part 1](https://www.vexforum.com/index.php/8874-quadrature-encoder-values-not-working-from-robotc-tech-forum/p1#p83607)
-
-[CORTEX Digital Ports 4 & 10 - Part 2](https://www.vexforum.com/index.php/8204-problems-with-2-sonar-sensors/p1#p76481)
-
-[CORTEX Digital Ports 4 & 10 - Part 3](https://www.vexforum.com/index.php/9292-how-many-interrupts-does-the-cortex-have-again/0)
-
-[Words of Wisdom](https://renegaderobotics.org/the-path-to-prototyping/)
-
-[Programming AUTONOMOUS](https://renegaderobotics.org/autonomous-testing/)
-
-
-## TUTORIALS
-
-[Atom](https://1010robotics.github.io/Resources/Atom)
-
-[GitHub](https://1010robotics.github.io/Resources/GitHub)
-
-[GitHub Desktop](https://1010robotics.github.io/Resources/GitHub-Desktop)
-
-[RobotC](https://1010robotics.github.io/Resources/RobotC)
-
-[PROS](https://1010robotics.github.io/Resources/PROS)
-
-[LabVIEW for FRC](https://1010robotics.github.io/Resources/LabVIEW)
-
-[Java for FRC](https://1010robotics.github.io/Resources/JavaForFRC)
-
-[PID](https://1010robotics.github.io/Resources/PID)
-
-[Useful Materials](https://1010robotics.github.io/Resources/UsefulMaterials)
-
-## Software Projects
-
-[Google Summer of Code 2017](https://summerofcode.withgoogle.com/how-it-works/)
-
-## Josh's Research
-
-[Josh's Link Library (Full)](https://1010robotics.github.io/Resources/joshlinks)
-
-## Room and Field Procedures & Recommendations
-
-[Room Procedures](https://1010robotics.github.io/Resources/RoomProcedures)
-
-[Field Procedures](https://1010robotics.github.io/Resources/FieldProcedures)
-
-[Recommendations](https://1010robotics.github.io/Resources/Recommendations)
 
