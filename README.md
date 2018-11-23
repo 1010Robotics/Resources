@@ -18,7 +18,7 @@
 
 |Ten Ton Robotics|
 |-----------------|
-|[Robotics Promotion](https://www.youtube.com/watch?v=VkqiHvqSViA)|
+|[Why Robotics?](https://www.youtube.com/watch?v=VkqiHvqSViA)|
 |[Ten Ton at VEX Worlds 2017](https://www.youtube.com/watch?v=oYYRGoB5eLE&t=17s)|
 
 |2018-2019 VEX Robotics Competition|
