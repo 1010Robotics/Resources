@@ -19,11 +19,11 @@
 |Ten Ton Robotics|
 |-----------------|
 |[Why Robotics?](https://www.youtube.com/watch?v=VkqiHvqSViA)|
-|[Ten Ton at VEX Worlds 2017](https://www.youtube.com/watch?v=oYYRGoB5eLE&t=17s)|
+|[1010 Robotics at VEX Worlds 2017](https://www.youtube.com/watch?v=oYYRGoB5eLE&t=17s)|
 
 |2018-2019 VEX Robotics Competition|
 |--------------------------|
-|[Turning Point Video](https://www.youtube.com/watch?v=CDDGBcs0TFM)|
+|[Turning Point Trailer](https://www.youtube.com/watch?v=CDDGBcs0TFM)|
 
 ## Procedures & Recommendations <img align="right" src="https://cdn4.iconfinder.com/data/icons/business-1-3/512/checklist-512.png" length="32" width="32"/>
 * [Room Procedures](https://1010robotics.github.io/Resources/RoomProcedures)
