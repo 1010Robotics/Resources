@@ -29,5 +29,6 @@
 * [Room Procedures](https://1010robotics.github.io/Resources/RoomProcedures)
 * [Field Procedures](https://1010robotics.github.io/Resources/FieldProcedures)
 * [Recommendations](https://1010robotics.github.io/Resources/Recommendations)
+* [Competition Packing List](https://github.com/1010Robotics/Resources/blob/master/1010%20Competition%20Packing%20List.pdf)
 
 
